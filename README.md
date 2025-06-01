@@ -117,4 +117,4 @@ VITE_SERVER= BACKEND_URL
 ---
 
 <br>
-<p align="center"> <b>Crafted with care 💝 by <a href="https://github.com/jayjoshi2512/">Jay</a> </b ></p> & <a href="https://github.com/virtualharsh/">Harsh</a> <br>
+<p align="center"> <b>Crafted with care 💝 by <a href="https://github.com/jayjoshi2512/">Jay</a> </b> & <a href="https://github.com/virtualharsh/">Harsh</a></p> <br>
